@@ -16,6 +16,7 @@ The coordinates for NIKHEF listed in PeeringDB are 3m below sea level.
 #TODO sea level of other facilities in Amsterdam area (table?)
 
 TODO. references 
-[1] https://pc.nanog.org/static/published/meetings/NANOG74/1768/20181001_Barford_Keynote_Lightsout_Climate_v1.pdf
-[2]
+
+    [1] https://pc.nanog.org/static/published/meetings/NANOG74/1768/20181001_Barford_Keynote_Lightsout_Climate_v1.pdf
+    [2] https://coast.noaa.gov/digitalcoast/ 
 
